@@ -35,9 +35,11 @@ It allows users to browse, add to cart, and order food online while providing an
 
 ---
 
-## **Environment Variables**
-### Backend \`.env\`
-\`\`\`env
+## Environment Variables
+
+### Backend `.env`
+
+```env
 PORT=your_PORT_NO
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
@@ -46,4 +48,4 @@ CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_cloud_api_key
 CLOUDINARY_API_SECRET=your_cloud_api_secret
 NODE_ENV=development
-\`\`\`
+
