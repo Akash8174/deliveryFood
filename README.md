@@ -51,10 +51,6 @@ NODE_ENV=development
 ```
 ---
 ## Run Project in own Laptop
-**For Frontend:** npm run dev
+**For Frontend:** npm run dev__
 **For Backend:** npm start
 **For Admin Pannel:** npm run dev
----
-
-
-
