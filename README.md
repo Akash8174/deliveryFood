@@ -49,8 +49,17 @@ CLOUDINARY_API_KEY=your_cloud_api_key
 CLOUDINARY_API_SECRET=your_cloud_api_secret
 NODE_ENV=development
 ```
----
+
 ## Run Project in own Laptop
-**For Frontend:** npm run dev__
-**For Backend:** npm start
-**For Admin Pannel:** npm run dev
+**For Frontend:**
+```
+npm run dev
+```
+**For Backend:** 
+```
+npm start
+```
+**For Admin Pannel:** 
+```
+npm run dev
+```
